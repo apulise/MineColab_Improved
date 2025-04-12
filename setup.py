@@ -1,6 +1,7 @@
 # @title ##**[❗]  Set up**
 # @markdown ###**Setup requirements** {display-mode: "form"}
 # @markdown Check out [wiki of this project](https://minecolabimproved.wiki.gg/es/wiki/MineColab_Improved_Wiki) for more explanations
+!echo asdasdasd
 import requests
 from requests import get
 import sys
