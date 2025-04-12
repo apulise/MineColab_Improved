@@ -1,4 +1,4 @@
-def version_check():
+def version_check(colabversion):
     url = "https://raw.githubusercontent.com/Prozoon700/MI-Test/main/version.json"
     try:
         response = requests.get(url)
